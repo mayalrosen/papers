@@ -6,3 +6,6 @@ This is the intro to my amazing paper (B & D, 2019). We should also reference (S
 
 
 These results were amazing.
+
+
+These are my beautiful figures.
