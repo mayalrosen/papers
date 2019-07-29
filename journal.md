@@ -1,3 +1,5 @@
-h
 
-my cool paper
+
+#my cool paper
+#me and my friends
+This is the intro to my amazing paper.
